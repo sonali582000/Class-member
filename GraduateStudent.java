@@ -45,7 +45,7 @@ for (int i=0;i<gs1.length;i++)
 {
 if (gs1[i].height>150 && gs1[i].progname.equals("BCA"))
 {
-System.out.print("------------------\n\n");
+System.out.println("********************\n");
 gs1[i].disp();
 }
 }
